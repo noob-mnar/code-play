@@ -73,8 +73,6 @@ http://watchindia.net:8880/live/97869/86543/277.ts
 http://watchindia.net:8880/live/97869/86543/2240.ts
 #EXTINF:-1,-1 tvg-id="suryatv.in" tvg-name="Surya TV HD" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_HD.png" group-title="Malayalam",Surya TV HD
 http://watchindia.net:8880/live/97869/86543/279.ts
-#EXTINF:-1,-1 tvg-id="suryatv.in" tvg-name="Surya TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya.png" group-title="Malayalam",Surya TV
-http://watchindia.net:8880/live/97869/86543/2322.ts
 #EXTINF:-1,-1 tvg-id="suryacomedy.in" tvg-name="Surya Comedy" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_Comedy.png" group-title="Malayalam",Surya Comedy
 http://watchindia.net:8880/live/97869/86543/299.ts
 #EXTINF:-1,-1 tvg-id="suryamovies.in" tvg-name="Surya Movies" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_Movies.png" group-title="Malayalam",Surya Movies
@@ -2683,3 +2681,9 @@ http://watchindia.net:8880/movie/97869/86543/2727.mkv
 http://watchindia.net:8880/movie/97869/86543/2728.mkv
 #EXTINF:-1,-1 tvg-id="" tvg-name="Hello Mummy (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gscmBqhpsbqy52pPaxiCbiqkukR.jpg" group-title="Malayalam",Hello Mummy (2024)
 http://watchindia.net:8880/movie/97869/86543/2729.mkv
+#EXTINF:-1,-1 tvg-id="" tvg-name="Oru Jaathi Jaathakam (2025)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDVmN2YxN2EtM2UxOS00MzUyLTgzNGItNGQ3MjRmNmI0MTY1XkEyXkFqcGc@._V1_FMjpg_UY3000_.jpg" group-title="Malayalam",Oru Jaathi Jaathakam (2025)
+http://watchindia.net:8880/movie/97869/86543/2730.mkv
+#EXTINF:-1,-1 tvg-id="" tvg-name="Ponman (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWGifR1mYNWPl9TRGgrnj8riajJ.jpg" group-title="Malayalam",Ponman (2025)
+http://watchindia.net:8880/movie/97869/86543/2731.mkv
+#EXTINF:-1,-1 tvg-id="" tvg-name="Orumbettavan (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xF6vIG0388xSgNocH8hB1WFzB5L.jpg" group-title="Malayalam",Orumbettavan (2025)
+http://watchindia.net:8880/movie/97869/86543/2732.mkv
